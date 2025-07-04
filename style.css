@@ -1,0 +1,14 @@
+#fname{
+    background-color: red;
+    }
+#lname{
+    background-color: black;
+}    
+#phonnumber{
+    background-color: brown;
+}
+.ClassForm{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color:purple;
+}
