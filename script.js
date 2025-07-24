@@ -1,7 +1,11 @@
 function submit(){
     debugger
-var fname=document.getElementById('fname')
-var lname=document.getElementById('lname')
-var fullname=fname.value+" "+lname.value
-console.log(fullname)
+var Fullname=document.getElementById('fullname')
+var Email=document.getElementById('email')
+var phonenumber=document.getElementById('phno')
+var Feedback=document.getElementById('FB')
+console.log(Fullname.value)
+console.log(Email.value)
+console.log(phonenumber.value)
+console.log(Feedback.value)
 }
