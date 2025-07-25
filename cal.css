@@ -1,0 +1,14 @@
+calculator{
+    border : 1px solid#ccc;
+    padding: 20px;
+    background-color: #fff;
+    border-radius : 12px;
+    box-shadow: 0 0 10px#ccc;
+}
+button{
+    font-size: 20px;
+    padding: 15px;
+    border: none;
+    border-radius:8px ;
+    background-color :#eee;
+}
